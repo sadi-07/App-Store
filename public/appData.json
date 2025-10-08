@@ -1,0 +1,254 @@
+[
+  {
+    "image": "https://i.ibb.co.com/prwxkR35/book.png",
+    "title": "Taskify",
+    "companyName": "Productive Solutions",
+    "id": 1,
+    "description": "Taskify is a powerful task management app designed to streamline productivity for teams and individuals. With an intuitive interface, it allows users to create, assign, and track tasks in real-time, ensuring seamless collaboration across projects. Features include customizable workflows, deadline reminders, and integration with popular tools like Slack and Google Calendar. Users can prioritize tasks with a drag-and-drop system, set recurring tasks, and generate detailed progress reports. Taskify supports both cloud and offline modes, making it accessible for remote workers or those with limited connectivity. Its robust notification system keeps everyone on the same page, reducing missed deadlines. The app also offers role-based access controls, ensuring sensitive project details remain secure. Taskify’s AI-driven insights suggest optimal task assignments based on team performance, enhancing efficiency. Whether you're managing a small startup or a large enterprise, Taskify adapts to your needs with scalable features. Its clean design minimizes the learning curve, allowing users to focus on what matters most: getting work done. The app supports multiple languages and is optimized for both mobile and desktop, ensuring a consistent experience. With regular updates and dedicated customer support, Taskify remains a top choice for project management enthusiasts worldwide. Ideal for professionals seeking a reliable, feature-rich solution to organize their workloads effectively.",
+    "size": 45,
+    "reviews": 3200,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wN13Qpjz/calendar.png",
+    "title": "NoteWave",
+    "companyName": "SmartNotes Inc.",
+    "id": 2,
+    "description": "NoteWave revolutionizes note-taking for students, professionals, and creatives. This app combines simplicity with advanced features like voice-to-text transcription, handwriting recognition, and real-time sync across devices. Organize notes into customizable folders, tag them for easy retrieval, and share them instantly with collaborators. NoteWave’s OCR technology scans handwritten or printed text, converting it into editable formats. Users can embed images, audio, and PDFs within notes, making it ideal for lectures, meetings, or brainstorming sessions. The app’s minimalist interface reduces distractions, while its powerful search function locates notes by keywords or tags. NoteWave supports markdown for formatting, catering to writers and coders. Its offline mode ensures uninterrupted access, and end-to-end encryption keeps your data secure. The app integrates with cloud services like Dropbox and OneDrive, allowing seamless backups. NoteWave’s AI suggests note categorization based on content, saving time. With cross-platform compatibility, users can switch between phone, tablet, and desktop without losing progress. The app also offers templates for meeting agendas, study guides, and journals, enhancing versatility. Regular updates introduce new features like collaborative whiteboards and widget support for quick note access. NoteWave’s responsive customer support and active community forums ensure users get the most out of their experience. Perfect for anyone seeking an all-in-one solution for capturing and organizing ideas efficiently.",
+    "size": 30,
+    "reviews": 2800,
+    "ratingAvg": 4.3,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SwDrttC3/checklist.png",
+    "title": "FitPulse",
+    "companyName": "HealthTrack Labs",
+    "id": 3,
+    "description": "FitPulse is your ultimate fitness companion, designed to help users achieve their health goals through personalized workouts and nutrition tracking. The app offers tailored exercise plans based on your fitness level, from beginner bodyweight routines to advanced strength training. Its AI-driven coach adapts workouts in real-time, factoring in user feedback and progress. FitPulse integrates with wearables like Fitbit and Apple Watch to monitor heart rate, steps, and calories burned. Users can log meals, scan barcodes for nutritional data, or follow guided meal plans for diets like keto or vegan. The app’s video tutorials ensure proper form, reducing injury risk. Community challenges and leaderboards add a fun, competitive edge, motivating users to stay consistent. FitPulse’s sleep tracker analyzes rest patterns, offering tips to improve recovery. With offline access, you can exercise anywhere, and the app’s clean interface makes navigation effortless. FitPulse supports goal setting for weight loss, muscle gain, or general wellness, with progress charts to visualize results. Its multilingual support and accessibility features cater to a global audience. Regular updates bring new workouts and recipes, while premium features unlock advanced analytics. FitPulse’s community forums connect users for tips and encouragement. Ideal for fitness enthusiasts or beginners seeking a science-backed approach to health and wellness.",
+    "size": 60,
+    "reviews": 4500,
+    "ratingAvg": 4.7,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Lzdvgtvw/code.png",
+    "title": "BudgetBuddy",
+    "companyName": "MoneyWise Tech",
+    "id": 4,
+    "description": "BudgetBuddy empowers users to take control of their finances with an intuitive budgeting and expense-tracking app. It syncs with bank accounts to automatically categorize transactions, helping you monitor spending habits in real-time. Set custom budgets for categories like groceries, entertainment, or travel, and receive alerts when nearing limits. BudgetBuddy’s AI analyzes spending patterns, offering personalized savings tips and forecasting future expenses. Users can set financial goals, like saving for a vacation or paying off debt, with progress trackers to stay motivated. The app supports multiple currencies, making it ideal for travelers or expats. Its exportable reports simplify tax preparation or financial planning. BudgetBuddy’s secure encryption protects sensitive data, and its offline mode allows tracking without internet access. The clean, user-friendly interface ensures quick setup, even for beginners. Additional features include bill reminders, investment tracking, and integration with apps like PayPal and Venmo. BudgetBuddy’s community-driven blog offers practical advice on frugality and wealth-building. Regular updates enhance functionality, such as new widgets for quick expense logging. Whether you’re a student managing a tight budget or a professional planning for retirement, BudgetBuddy adapts to your needs. Its responsive support team ensures quick resolution of issues, making it a trusted tool for financial independence.",
+    "size": 35,
+    "reviews": 3900,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1880 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/BVRhqBCY/dumbbell.png",
+    "title": "LearnQuest",
+    "companyName": "EduSpark Solutions",
+    "id": 5,
+    "description": "LearnQuest is a dynamic learning platform that makes education engaging and accessible for all ages. Offering thousands of courses across subjects like coding, language learning, and history, it caters to students, professionals, and hobbyists. Interactive lessons include quizzes, videos, and hands-on projects to reinforce learning. LearnQuest’s AI tailors course recommendations based on your interests and progress, ensuring a personalized experience. Users can track their learning streaks, earn badges, and join study groups for collaborative learning. The app supports offline downloads, allowing study without internet access. Its intuitive interface simplifies navigation, and accessibility features like text-to-speech cater to diverse learners. LearnQuest integrates with tools like Google Classroom and Zoom for virtual classes. Instructors can upload custom content, making it ideal for schools or corporate training. The app’s gamified approach, with leaderboards and rewards, keeps motivation high. Regular updates add new courses and features, such as AR-based lessons for science topics. LearnQuest’s community forums connect learners worldwide, fostering knowledge exchange. With robust privacy measures and multilingual support, it’s a global favorite. Whether you’re mastering Python or exploring art history, LearnQuest delivers a rich, engaging educational experience backed by excellent customer support.",
+    "size": 50,
+    "reviews": 4100,
+    "ratingAvg": 4.6,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2410 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0Vv4CPgR/graduation-cap.png",
+    "title": "ConnectSphere",
+    "companyName": "SocialSync Tech",
+    "id": 6,
+    "description": "ConnectSphere is a next-generation social networking app designed to foster meaningful connections. It allows users to create profiles, join interest-based communities, and share multimedia posts with ease. The app’s AI curates feeds based on user preferences, ensuring relevant content without overwhelming noise. Features include private messaging, group chats, and event planning tools for virtual or in-person meetups. ConnectSphere’s robust privacy controls let users customize who sees their content, ensuring a safe environment. The app supports video calls with up to 50 participants and integrates with calendars for seamless scheduling. Its clean, modern design enhances usability, while offline mode allows limited functionality without internet. ConnectSphere’s unique ‘Moments’ feature lets users share temporary stories that disappear after 24 hours. The app supports multiple languages and accessibility options, making it inclusive. Regular updates introduce new filters, themes, and interactive tools like polls. ConnectSphere’s community guidelines promote positivity, and its moderation AI reduces toxic content. Ideal for professionals networking, friends staying in touch, or hobbyists finding like-minded peers, ConnectSphere combines fun and functionality. With responsive support and a vibrant user base, it’s a top choice for social engagement in the digital age.",
+    "size": 55,
+    "reviews": 3600,
+    "ratingAvg": 4.2,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0zHy9bM/lotus.png",
+    "title": "TravelMate",
+    "companyName": "Wanderlust Apps",
+    "id": 7,
+    "description": "TravelMate is the ultimate companion for globetrotters, offering tools to plan, track, and share travel adventures. Users can create detailed itineraries, book flights, and find accommodations within the app. Its AI suggests destinations and activities based on preferences, budget, and travel history. Real-time currency conversion and local weather updates help travelers prepare effectively. TravelMate’s offline maps and translation features support navigation in remote areas or foreign countries. Users can save favorite spots, share trip journals, and collaborate on group travel plans. The app integrates with platforms like Airbnb and Google Maps for seamless bookings and directions. Safety features include emergency contact access and local safety alerts. TravelMate’s intuitive design ensures quick access to essential tools, while its multilingual support caters to a global audience. Community-driven reviews provide authentic insights into attractions and restaurants. Regular updates add new destinations and features, like AR city tours. Whether you’re a solo backpacker or planning a family vacation, TravelMate simplifies every step of the journey. Its secure data encryption and responsive support make it a trusted choice for travelers seeking convenience and inspiration on the go.",
+    "size": 70,
+    "reviews": 4300,
+    "ratingAvg": 4.5,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 2390 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xKX0pJQs/paint-brush.png",
+    "title": "MediMind",
+    "companyName": "HealthSync Solutions",
+    "id": 8,
+    "description": "MediMind is a comprehensive health management app designed to simplify medical care and wellness tracking. Users can store medical records, schedule appointments, and receive medication reminders in one secure platform. Its AI analyzes health data to provide personalized wellness tips, such as diet or exercise suggestions based on conditions like diabetes or hypertension. MediMind integrates with wearables to track vitals like heart rate and blood pressure, offering real-time insights. The app’s telemedicine feature connects users with doctors for virtual consultations. Secure cloud storage ensures records are accessible yet protected with end-to-end encryption. MediMind’s symptom checker helps users identify potential health issues and suggests when to seek care. The app supports family profiles, allowing caregivers to manage multiple health plans. Its clean interface and accessibility features, like voice commands, cater to seniors and those with disabilities. Regular updates add new health resources and integration with pharmacies for prescription refills. MediMind’s community forums connect users with others facing similar health challenges. Ideal for anyone managing chronic conditions or prioritizing wellness, MediMind combines convenience with cutting-edge technology and responsive support for a healthier lifestyle.",
+    "size": 65,
+    "reviews": 3800,
+    "ratingAvg": 4.6,
+    "downloads": 160000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0jkC7sj0/pill.png",
+    "title": "CodeCraft",
+    "companyName": "TechBit Studios",
+    "id": 9,
+    "description": "CodeCraft is a robust coding environment for developers, offering an in-app IDE for writing, testing, and debugging code. Supporting languages like Python, JavaScript, and C++, it caters to beginners and seasoned programmers. Features include syntax highlighting, auto-completion, and real-time error detection powered by AI. Users can collaborate on projects, share code snippets, and access a library of tutorials. CodeCraft’s cloud-based compiler allows coding without local setup, and its offline mode supports limited functionality. The app integrates with GitHub for version control and project management. Its clean, customizable interface enhances focus, while built-in templates accelerate learning for new coders. CodeCraft’s AI suggests optimizations and catches potential bugs, improving code quality. The app supports hackathons with live leaderboards and team collaboration tools. Regular updates introduce new languages and frameworks, ensuring relevance. CodeCraft’s community forums connect developers for peer support and knowledge sharing. With strong security for code storage and responsive customer support, it’s ideal for students, freelancers, or professionals honing their coding skills in a versatile, user-friendly platform.",
+    "size": 80,
+    "reviews": 4700,
+    "ratingAvg": 4.8,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 3090 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JFgLGVrH/shopping-bag.png",
+    "title": "Artisan",
+    "companyName": "CreativeFlow Labs",
+    "id": 10,
+    "description": "Artisan is a creative hub for artists, offering tools for digital drawing, photo editing, and graphic design. Its intuitive interface supports layers, brushes, and effects, rivaling professional software. AI-powered features like auto-color correction and style transfer enhance creativity, while templates for posters, logos, and social media posts save time. Artisan supports stylus input for precise sketching and integrates with cloud storage for seamless project access. Users can showcase portfolios, sell artwork, or collaborate on group projects within the app. Offline mode ensures uninterrupted creativity, and its high-resolution export options cater to print and digital media. Artisan’s community marketplace connects artists with clients, fostering freelance opportunities. The app’s tutorials and live workshops help users master new techniques. Regular updates add new brushes, filters, and AR-based design tools. With multilingual support and accessibility features, Artisan is inclusive for global creators. Its secure data handling and responsive support make it a trusted choice for hobbyists and professionals seeking a versatile, inspiring platform to bring their visions to life.",
+    "size": 90,
+    "reviews": 4000,
+    "ratingAvg": 4.7,
+    "downloads": 175000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2350 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/35pKbQrr/topic.png",
+    "title": "Mindful",
+    "companyName": "CalmPath Solutions",
+    "id": 11,
+    "description": "Mindful is a mental wellness app designed to promote relaxation and emotional balance through guided meditations, breathing exercises, and journaling. Its AI tailors sessions based on user mood and goals, offering personalized mindfulness plans. Features include sleep stories, stress-relief techniques, and progress tracking to monitor mental health over time. Mindful integrates with wearables to measure heart rate variability during sessions, enhancing effectiveness. The app’s soothing interface and ambient sounds create a calming experience, while offline mode ensures access anywhere. Users can join live group meditations or connect with a community for support. Mindful’s journal feature supports voice and text input, with AI-driven prompts to spark reflection. Regular updates add new meditations and expert-led content, like yoga flows. With multilingual support and accessibility options, it caters to a global audience. Mindful’s secure data encryption protects sensitive entries, and its responsive support team ensures a seamless experience. Ideal for those seeking stress relief, better sleep, or emotional clarity, Mindful combines science-backed techniques with user-friendly design to foster well-being in a busy world.",
+    "size": 40,
+    "reviews": 4200,
+    "ratingAvg": 4.6,
+    "downloads": 165000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/chcZPWvW/wallet.png",
+    "title": "ShopWise",
+    "companyName": "RetailTech Innovations",
+    "id": 12,
+    "description": "ShopWise transforms the shopping experience by helping users find deals, compare prices, and manage purchases. The app scans barcodes, searches online and local stores, and suggests the best prices for products. Its AI tracks price trends and alerts users to discounts, ensuring savings. Users can create shopping lists, set budgets, and receive reminders for recurring purchases. ShopWise integrates with loyalty programs and digital wallets for seamless transactions. The app’s offline mode allows list access without internet, and its clean interface simplifies navigation. Community-driven reviews provide insights into product quality, while the app’s deal aggregator pulls from major retailers like Amazon and Walmart. ShopWise supports multiple currencies, making it ideal for international shoppers. Regular updates add new retailers and features, like AR product previews. With robust security for payment data and responsive support, ShopWise is a trusted companion for savvy shoppers. Whether hunting for electronics, groceries, or fashion, the app empowers users to shop smarter and save more in an intuitive, efficient platform.",
+    "size": 50,
+    "reviews": 3900,
+    "ratingAvg": 4.4,
+    "downloads": 155000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2080 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/C3m9YRqc/demo-app-1.webp",
+    "title": "Eventify",
+    "companyName": "PlanEasy Tech",
+    "id": 13,
+    "description": "Eventify is a comprehensive event planning app that simplifies organizing gatherings, from small parties to large conferences. Users can create events, send digital invitations, and track RSVPs in real-time. The app’s AI suggests venues, caterers, and themes based on budget and preferences. Eventify’s timeline feature helps manage tasks like booking vendors or scheduling speeches, with reminders to stay on track. Integration with Google Calendar and Zoom supports seamless scheduling and virtual events. Users can share event updates via social media or private groups, fostering engagement. The app’s budget tracker monitors expenses, and its vendor directory connects users with trusted suppliers. Eventify’s offline mode ensures access to plans without internet, and its clean interface enhances usability. Multilingual support and accessibility features make it inclusive. Regular updates add new templates and collaboration tools, like live polls for attendees. With secure data handling and responsive support, Eventify is ideal for planners seeking a stress-free, organized approach to creating memorable events.",
+    "size": 45,
+    "reviews": 3500,
+    "ratingAvg": 4.3,
+    "downloads": 145000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RT8WsCTL/demo-app-2.webp",
+    "title": "StudyCircle",
+    "companyName": "EduConnect Labs",
+    "id": 14,
+    "description": "StudyCircle is a collaborative learning app designed for students to study smarter and connect with peers. It offers virtual study rooms, flashcard creation, and shared notes for group learning. The app’s AI suggests study schedules and resources based on academic goals and deadlines. Users can join subject-specific communities, participate in live quizzes, or access expert-led tutorials. StudyCircle integrates with school platforms like Canvas and Blackboard for seamless assignment tracking. Its distraction-free interface and focus timer boost productivity, while offline mode supports uninterrupted study. The app’s gamified rewards, like badges for consistency, keep students motivated. StudyCircle’s secure chat and file-sharing features foster collaboration, and its accessibility options ensure inclusivity. Regular updates introduce new study tools, such as mind-mapping features. With multilingual support and responsive customer service, StudyCircle is perfect for high school or college students aiming to excel academically in a supportive, interactive environment.",
+    "size": 40,
+    "reviews": 3700,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  }
+]
