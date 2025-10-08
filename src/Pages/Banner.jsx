@@ -11,8 +11,8 @@ const Banner = () => {
             <div className='text-center pt-20 pb-10'>
                 <h1 className='text-6xl font-extrabold pb-5'>We Build <br /> <span className='text-purple-800'>Productive</span> Apps</h1>
                 <p className='max-w-2/3 mx-auto text-gray-500 font-semibold pb-5'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
-                <button className='btn mr-10 border-gray-400 rounded-base text-lg py-6'><IoLogoGooglePlaystore></IoLogoGooglePlaystore> Google Play</button>
-                <button className='btn border-gray-400 rounded-base text-lg py-6'><FaAppStoreIos></FaAppStoreIos> App Store</button>
+                <button className='btn mr-10 border-gray-400 rounded-base text-lg py-6'><IoLogoGooglePlaystore></IoLogoGooglePlaystore> <a href="https://play.google.com/store/apps" target='_blank'>Google Play</a></button>
+                <button className='btn border-gray-400 rounded-base text-lg py-6'><FaAppStoreIos></FaAppStoreIos> <a href="https://www.apple.com/app-store/" target='_blank'>App Store</a></button>
             </div>
             <div className='px-10 md:px-5 '>
                 <img className='mx-auto' src={bannerImg} alt="" />
