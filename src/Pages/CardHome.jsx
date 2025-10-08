@@ -5,7 +5,7 @@ const CardHome = ({ app }) => {
     const {image, title } = app;
     return (
         <div>
-                <div className="card bg-base-100 shadow-sm">
+                <div className="card bg-base-100 shadow-sm mx-10 lg:mx-0">
                 <figure>
                     <img className='h-84 pt-6'
                         src={image} />
