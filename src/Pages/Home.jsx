@@ -1,6 +1,6 @@
 import React from 'react';
 import Banner from './Banner';
-import { Link, useLoaderData } from 'react-router';
+import { Link } from 'react-router';
 import CardHome from './CardHome';
 import useApps from '../Hooks/useApps';
 

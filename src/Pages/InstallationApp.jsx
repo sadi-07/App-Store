@@ -40,10 +40,13 @@ const InstallationApp = () => {
         localStorage.setItem('Install', JSON.stringify(updatedList))
 
         toast.info(`${removedApp.title} has been uninstalled`, {
-            position: toast.POSITION.TOP_CENTER,
-            autoClose: 3000,
-            closeButton: true
-        });
+      position: "top-center",      
+      autoClose: 3000,
+      closeOnClick: true,
+      draggable: true,
+      pauseOnHover: true,
+      theme: "colored",             
+    });
     }
 
 
@@ -89,17 +92,7 @@ const InstallationApp = () => {
                 ))
             }
 
-            <ToastContainer 
-                position="top-center"
-                autoClose={3000}
-                hideProgressBar={false}
-                newestOnTop
-                closeOnClick
-                draggable
-                pauseOnHover
-                toastStyle={{ zIndex: 9999 }}
-                className="custom-toast-container"
-            />
+            <ToastContainer />
         </div>
     );
 };

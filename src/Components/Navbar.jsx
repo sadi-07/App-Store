@@ -27,7 +27,7 @@ const Navbar = () => {
                     <ul className="menu menu-horizontal px-1 flex gap-9">
                         <NavLink to='/' className={({ isActive }) => 
                 `font-semibold text-lg ${isActive ? 'text-purple-600 border-b-2 border-purple-600' : 'text-gray-600'}`
-            }><li>Home</li></NavLink>
+            }   ><li>Home</li></NavLink>
                         <NavLink to='/apps' className={({ isActive }) => 
                 `font-semibold text-lg ${isActive ? 'text-purple-600 border-b-2 border-purple-600' : 'text-gray-600'}`
             }><li>Apps</li></NavLink>
@@ -45,6 +45,7 @@ const Navbar = () => {
                         fontSize: '16px',
                         cursor: 'pointer',
                     }}><FaGithub /> Contribute</a>
+                    
                 </div>
             </div>
         </div>

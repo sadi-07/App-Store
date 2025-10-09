@@ -6,6 +6,7 @@ import MainLayout from "../Layouts/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
 import InstallationApp from "../Pages/InstallationApp";
 import AppDetails from "../Pages/AppDetails";
+import AppNotFound from "../Pages/AppNotFound";
 
 
 export const router = createBrowserRouter([
@@ -13,7 +14,7 @@ export const router = createBrowserRouter([
         path: "/",
         element: <MainLayout></MainLayout>,
         hydrateFallbackElement: <p>Loading....</p>,
-        //errorElement: <ErrorPage></ErrorPage>,
+        errorElement: <ErrorPage></ErrorPage>,
         children: [
             {   
                 index: true,
@@ -30,6 +31,10 @@ export const router = createBrowserRouter([
             {
                 path: "/app/:id",
                 element: <AppDetails></AppDetails>
+            },
+            {
+                path: "*",
+                element: <AppNotFound></AppNotFound>
             }
         ]
     },

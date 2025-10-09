@@ -8,6 +8,8 @@ import RatingChart from './RatingChart';
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { useState } from 'react';
+import AppNotFound from './AppNotFound';
+import Loader from '../Components/Loader';
 
 const AppDetails = () => {
     const { id } = useParams()
@@ -23,8 +25,8 @@ const AppDetails = () => {
         const alreadyInstalled = existingList.some(c => c.id === app.id);
         if (alreadyInstalled) setIsInstalled(true);
     }, [app]);
-    if (loading) return <p>Loading.....</p>
-      if (!app) return <p>App not found.</p>;
+    if (loading) return <Loader />;
+    if (!app) return <AppNotFound />;
 
 
     const { title, image, ratingAvg, downloads, companyName, reviews, size, description } = app;
@@ -36,8 +38,12 @@ const AppDetails = () => {
     if (alreadyInstalled) {
       setIsInstalled(true);
       return toast.info(`${app.title} is already installed`, {
-        position: toast.POSITION.TOP_CENTER,
-        closeButton: true
+        position: "top-center",      
+      autoClose: 3000,
+      closeOnClick: true,
+      draggable: true,
+      pauseOnHover: true,
+      theme: "colored",
       });
     }
         let updatedList = [...existingList, app];

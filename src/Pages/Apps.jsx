@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import useApps from '../Hooks/useApps';
 import CardHome from './CardHome';
+import SearchError from './SearchError';
 
 const Apps = () => {
     const [apps, loading, error] = useApps();
@@ -36,11 +37,17 @@ const Apps = () => {
                     </label>
                 
             </div>
-            <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 max-w-6xl mx-auto gap-6 pt-8 pb-10 px-8 lg:px-4'>
-                {
-                    searchedApps.map(app => <CardHome key={app.id} app={app}></CardHome>)
-                }
-            </div>
+            
+
+            {searchedApps.length === 0 ? (
+        <SearchError />
+      ) : (
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 max-w-6xl mx-auto gap-6 pt-8 pb-10 px-8 lg:px-4">
+          {searchedApps.map((app) => (
+            <CardHome key={app.id} app={app} />
+          ))}
+        </div>
+      )}
 
         </div>
     );
