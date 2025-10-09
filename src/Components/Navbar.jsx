@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import logo from '../assets/logo.png'
 import { FaGithub } from "react-icons/fa6";
 
@@ -25,9 +25,16 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 flex gap-9">
-                        <Link to='/' className='font-semibold text-lg  text-gray-600'><li>Home</li></Link>
-                        <Link to='apps' className='font-semibold text-lg text-gray-600'><li>Apps</li></Link>
-                        <Link to='installation' className='font-semibold text-lg text-gray-600'><li>Installation</li></Link>
+                        <NavLink to='/' className={({ isActive }) => 
+                `font-semibold text-lg ${isActive ? 'text-purple-600 border-b-2 border-purple-600' : 'text-gray-600'}`
+            }><li>Home</li></NavLink>
+                        <NavLink to='/apps' className={({ isActive }) => 
+                `font-semibold text-lg ${isActive ? 'text-purple-600 border-b-2 border-purple-600' : 'text-gray-600'}`
+            }><li>Apps</li></NavLink>
+                        <NavLink to='/installation' className={({ isActive }) => 
+                `font-semibold text-lg ${isActive ? 'text-purple-600 border-b-2 border-purple-600' : 'text-gray-600'}`
+            }><li>Installation</li></NavLink>
+                        
                     </ul>
                 </div>
                 <div className="navbar-end">

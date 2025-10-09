@@ -21,7 +21,7 @@ const CardHome = ({ app }) => {
                     </h2>
 
                     <div className="card-actions flex justify-between items-center">
-                        <div className="badge text-base bg-gray-200 text-green-600"><FaDownload />{downloads}</div>
+                        <div className="badge text-base bg-gray-200 text-green-600"><FaDownload />{downloads} M</div>
                         <div className="badge text-base bg-orange-200 text-orange-600"><FaStar />
                             {ratingAvg}</div>
                     </div>

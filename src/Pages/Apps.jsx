@@ -9,12 +9,14 @@ const Apps = () => {
     const term = search.trim().toLocaleLowerCase()
     const searchedApps = term ? apps.filter(app => app.title.toLocaleLowerCase().includes(term)) : apps
 
+    
+
     return (
-        <div className='max-w-6xl mx-auto'>
+        <div className='max-w-6xl mx-auto px-4 lg:px-0'>
 
             <h1 className='font-extrabold text-5xl text-center pt-25 pb-4'>Our All Applications</h1>
             <p className='font-semibold text-xl text-gray-600 text-center'>Explore All Trending Apps on the Market developed by us. We code for Millions</p>
-            <div className='pt-15 px-8 lg:px-4 flex flex-col-reverse md:flex-row justify-between items-center'>
+            <div className='pt-15 flex flex-col-reverse md:flex-row justify-between items-center'>
                 <h1 className='font-bold text-3xl pt-7 md:pt-0'><span>({searchedApps.length})</span> Apps Found</h1>
                 
                     <label className="input">
