@@ -3,12 +3,14 @@ import Banner from './Banner';
 import { Link } from 'react-router';
 import CardHome from './CardHome';
 import useApps from '../Hooks/useApps';
+import Loader from '../Components/Loader';
 
 const Home = () => {
     
     const [apps, loading, error] = useApps();
 
     const homeApps = apps.slice(0, 8);
+    if (loading) return <Loader></Loader>
 
     return (
         <div className=''>

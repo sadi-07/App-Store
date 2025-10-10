@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import useApps from '../Hooks/useApps';
 import CardHome from './CardHome';
 import SearchError from './SearchError';
+import Loader from '../Components/Loader';
 
 const Apps = () => {
     const [apps, loading, error] = useApps();
@@ -10,7 +11,7 @@ const Apps = () => {
     const term = search.trim().toLocaleLowerCase()
     const searchedApps = term ? apps.filter(app => app.title.toLocaleLowerCase().includes(term)) : apps
 
-    
+      if (loading) return <Loader></Loader>
 
     return (
         <div className='max-w-6xl mx-auto px-4 lg:px-0'>

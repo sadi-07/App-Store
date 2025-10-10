@@ -7,7 +7,7 @@ import { Link } from 'react-router';
 const ErrorPage = () => {
     return (
         <div>
-            <Navbar></Navbar>
+            
             <div className='text-center'>
                 <img className='mx-auto py-20 px-8' src={ErrorImg}/>
             <h1 className='font-bold text-5xl mb-3 px-2'>Opps, page not found!</h1>
@@ -21,7 +21,6 @@ const ErrorPage = () => {
                                     cursor: 'pointer',
                                 }}>Go Back</a></Link>
             </div>
-            <Footer></Footer>
         </div>
     );
 };
