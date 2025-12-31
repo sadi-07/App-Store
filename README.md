@@ -1,6 +1,6 @@
 # App Store
 
-**Live Link**|
+**Live Link**
 
  [View Live Link](https://app-store-07.netlify.app/)
 
